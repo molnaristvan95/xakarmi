@@ -1,0 +1,15 @@
+body{
+  height:100vh;
+  background:repeating-linear-gradient(to right bottom, black, yellow 50px);
+}
+h1{
+  color:yellow;
+}
+
+/*
+
+css beagyazasi kodja html-be mint kulso file:
+
+<link href=" " rel="stylesheet" type="text/css">
+
+*/
